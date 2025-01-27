@@ -1,0 +1,40 @@
+
+<!--person's titles-->
+					<div class='front-person-titles' >
+						<!--title1-->
+						<span class='t1' >
+							Android Developer
+						</span>
+						<!--/title1-->
+						<!--title2-->
+						<span class='t2' >
+							Java / Kotlin
+						</span>
+						<!--/title2-->
+					</div>
+					<!--/person's titles-->					
+					<nav class='front-person-links' >						
+						<!--
+							navigation links, data-section attribute points towards the section with id to be opened. 
+						-->						
+						<ul>
+							<li>
+								<a href='#' data-section='about' >About Me</a>
+							</li>
+							
+							<li>
+								<a href='#' data-section='resume' >Resume</a>
+							</li>						
+							<li>
+								<a href='#' data-section='portfolio' >Portfolio</a>
+							</li>							
+						</ul>
+					</nav>
+					<div class='front-heading text-center' >
+
+						<h2>
+							Muhammad Usman
+						</h2>
+						
+					</div>
+					
